@@ -26,8 +26,8 @@
 -----
 <h2>Donate</h2>
 
-><a href="https://iili.io/Dj2K2n.jpg">```Dana```</a><br>
-><a href="https://iili.io/Dj2f7s.png">```OVO```</a><br>
+><a href="https://iili.io/Dj2K2n.jpg">```OVO```</a><br>
+><a href="https://iili.io/Dj2f7s.png">```Dana```</a><br>
 ><a href="https://saweria.co/xianzhe">```Saweria```</a>
 
 <!---
